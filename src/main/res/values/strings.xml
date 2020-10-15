@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Fridge Partner</string>
+    <string name="username"> Username </string>
+    <string name="fullname"> Fullname </string>
+    <string name="password"> Password </string>
+    <string name="email"> Emaill </string>
+    <string name="login"> Login </string>
+    <string name="loginhere"> Login here </string>
+    <string name="signup"> SignUp </string>
+    <string name="signuphere">create a new account? SignUp here</string>
+
+</resources>
